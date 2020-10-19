@@ -1,3 +1,5 @@
+highlights from "The Speed of Trust" by Stephen Covey
+
 # The Speed of Trust
 
 ## Table of Contents
